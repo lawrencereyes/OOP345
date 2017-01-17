@@ -1,0 +1,13 @@
+﻿  w7.cpp
+  TaxableProduct.cpp
+c:\users\lawrence reyes\desktop\oop345\w7\w7\taxableproduct.cpp(3): warning C4838: conversion from 'double' to 'const float' requires a narrowing conversion
+c:\users\lawrence reyes\desktop\oop345\w7\w7\taxableproduct.cpp(3): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Sales.cpp
+c:\users\lawrence reyes\desktop\oop345\w7\w7\sales.cpp(8): warning C4101: 'product': unreferenced local variable
+c:\users\lawrence reyes\desktop\oop345\w7\w7\sales.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  Product.cpp
+  iProduct.cpp
+c:\users\lawrence reyes\desktop\oop345\w7\w7\iproduct.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  w7.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP345\w7\Debug\w7.exe
+  w7.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP345\w7\Debug\w7.pdb (Partial PDB)

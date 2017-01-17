@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\lawrence reyes\desktop\oop345\project2\project2\main.c(7): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\lawrence reyes\desktop\oop345\project2\project2\main.c(7): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Project2.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP345\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP345\Project2\Debug\Project2.pdb (Partial PDB)

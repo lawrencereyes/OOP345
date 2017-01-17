@@ -1,0 +1,16 @@
+﻿  TaskManager.cpp
+  Task.cpp
+  OrderManager.cpp
+  Order.cpp
+c:\users\lawrence reyes\desktop\oop345\m3\m3\order.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  milestone_3.cpp
+  Machine.cpp
+  ItemManager.cpp
+  Item.cpp
+  Factory.cpp
+c:\users\lawrence reyes\desktop\oop345\m3\m3\factory.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\lawrence reyes\desktop\oop345\m3\m3\factory.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\lawrence reyes\desktop\oop345\m3\m3\factory.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  m3.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP345\m3\Debug\m3.exe
+  m3.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP345\m3\Debug\m3.pdb (Partial PDB)
